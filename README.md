@@ -1,4 +1,4 @@
-Sure! Here is the updated README for the Fake News Prediction Model:
+
 
 # Fake News Prediction Model
 
@@ -170,8 +170,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Scikit-learn Library](https://scikit-learn.org/)
 
 ---
-
-Feel free to reach out if you have any questions or suggestions!
 ```
 
-This README provides a comprehensive overview of the Fake News Prediction Model, including installation instructions, usage examples, and details on the model's performance and evaluation.
+
